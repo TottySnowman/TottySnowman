@@ -8,7 +8,7 @@ Junior Application Developer
 * 🖥️  See my portfolio at [My Website](http://paul-wortmann.me)
 * ✉️  You can contact me at [contact@paul-wortmann.me](mailto:contact@paul-wortmann.me)
 * 🚀  I'm currently working on [Prepify](http://github.com/TottySnowman/prepify)
-* 🧠  I'm learning Rust, Cypress, Angular
+* 🧠  I'm learning Rust, Cypress
 * ⚡  Currently working as Software-Tester as my Zivi
 
 ### Skills
