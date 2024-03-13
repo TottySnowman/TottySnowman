@@ -8,7 +8,7 @@ Junior Application Developer
 * 🖥️  See my portfolio at [My Website](https://paul-wortmann.me)
 * ✉️  You can contact me at [contact@paul-wortmann.me](mailto:contact@paul-wortmann.me)
 * 🚀  I'm currently working on [Preloved Lux](https://prelovedlux.ch/)
-* 🧠  I'm learning Rust, Cypress
+* 🧠  I'm learning Go and VIM
 * ⚡  Currently working as Software-Tester as my Zivi
 
 ### Skills
