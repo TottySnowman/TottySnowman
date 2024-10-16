@@ -1,14 +1,15 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul-Philippe Wortmann
 ==============================================================================================================================================
 
 Fullstack Software Developer
 ----------------------------
 
-* 🌍  I'm based in Basel, Switzerland
-* 🖥️  See my portfolio at [My Website](https://paul-wortmann.me)
-* ✉️  You can contact me at [contact@paul-wortmann.me](mailto:contact@paul-wortmann.me)
-* 🚀  I'm currently working on [Preloved Lux](https://prelovedlux.ch/)
-* 🧠  I'm learning Go and VIM
+* 🌍  I'm based in Basel, Switzerland
+* 🖥️  See my portfolio at [My Website](https://paul-wortmann.me)
+* ✉️  You can contact me at [contact@paul-wortmann.me](mailto:contact@paul-wortmann.me)
+* 🚀  I'm currently working on [Preloved Lux](https://prelovedlux.ch/)
+* 🧠  I'm learning Go and VIM
 
 ### Skills
 
@@ -26,8 +27,9 @@ Fullstack Software Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tottysnowman"><img src="https://github-readme-stats.vercel.app/api?username=tottysnowman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tottysnowman's GitHub stats" /></a>
+<a href="http://www.github.com/tottysnowman"><img src="https://github-readme-stats.vercel.app/api?username=tottysnowman&theme=catppuccin_mocha&show_icons=true&rank_icon=github" alt="tottysnowman's GitHub stats" /></a>
 
-<a href="http://www.github.com/tottysnowman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tottysnowman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/tottysnowman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tottysnowman&stroke=ffffff&background=1e1e2e&ring=94e2d5&fire=94e2d5&currStreakNum=ffffff&currStreakLabel=94e2d5&sideNums=ffff&sideLabels=94e2d5&dates=94e2d5&hide_border=true" /></a>
 
-<a href="https://github.com/tottysnowman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tottysnowman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/tottysnowman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tottysnowman&langs_count=10&locale=en&custom_title=Top%20%Languages&size_weight=0.5&count_weight=0.5&hide=css,html,Dockerfile,SCSS&theme=catppuccin_mocha" alt="Top Languages" /></a>
+
