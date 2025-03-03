@@ -8,8 +8,7 @@ Fullstack Software Developer
 * 🌍  I'm based in Basel, Switzerland
 * 🖥️  See my portfolio at [My Website](https://paul-wortmann.me)
 * ✉️  You can contact me at [contact@paul-wortmann.me](mailto:contact@paul-wortmann.me)
-* 🚀  I'm currently working on PDF-Parser and implementing RAG chatbot for my portfolio
-* 🧠  I'm learning Go
+* 🚀  I'm currently rebuilding my portfolio
 
 ### Skills
 
